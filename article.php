@@ -1,0 +1,1 @@
+<div id="article"> <img src="hepsi.jpg" width="1200" height="700" align="left"></div>
